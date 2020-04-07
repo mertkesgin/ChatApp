@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ChatApp</string>
+    <string name="create_an_account">Create an account?</string>
+    <string name="create_account">Create Account</string>
+    <string name="log_out">Log Out</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dbname_users">users</string>
+    <string name="registration_successful">Registration Successful</string>
+    <string name="registration_failed">Registration failed. Please try again</string>
+    <string name="default_status">Hi there I\'m using ChatApp</string>
+    <string name="db_child_status">status</string>
+    <string name="dbstorage_profile_photos">profile_photos</string>
+    <string name="toolbar_all_users">All Users</string>
+    <string name="dbname_friend_request">friend_request</string>
+    <string name="dbname_friends">friends</string>
+    <string name="dbname_notifications">notifications</string>
+    <string name="dbname_chat">chat</string>
+    <string name="dbname_messages">messages</string>
+    <string name="dbname_message_images">message_images</string>
+</resources>
